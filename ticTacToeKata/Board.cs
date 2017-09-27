@@ -26,12 +26,8 @@ namespace ticTacToeKata{
         }
 
         private bool Diagonals_wins(Players player){
-            if (Have_three_on_diagonal_X0Y0_to_X2Y2(player)){
-                return true;
-            }
-            if (Have_three_on_diagonal_Y0X2_to_Y2_X0(player)){
-                return true;
-            }
+            if (Have_three_on_diagonal_X0Y0_to_X2Y2(player)) return true;
+            if (Have_three_on_diagonal_Y0X2_to_Y2_X0(player)) return true;
             return false;
         }
 
@@ -44,10 +40,8 @@ namespace ticTacToeKata{
 
         private bool Verticals_wins(Players player){
             if (Have_three_tokens_on_X0_vertical_position(player)) return true;
-            
             if (Have_three_tokens_on_X1_vertical_position(player)) return true;
             if (Have_three_tokens_on_X2_vertical_position(player)) return true;
-            
             return false;
         }
 
