@@ -25,6 +25,8 @@ namespace ticTacToeKata{
         [Test]
         public void Return_X_when_player2_play(){
             board.PutToken(new Cell(player2.PutToken(),new Position(0,0)));
+            board.PutToken(new Cell(player1.PutToken(),new Position(1,0)));
+            board.PutToken(new Cell(player2.PutToken(),new Position(2,0)));
             Assert.AreEqual(board.GetResult(player2),"next_player");
         }
 
