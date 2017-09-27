@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizzBuzzKata", "fizzBuzzKata\fizzBuzzKata.csproj", "{44241CBE-F429-47EC-A500-5920CEC015A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToeKata", "ticTacToeKata\ticTacToeKata.csproj", "{B23E35F7-0FAB-4628-9954-35DD51EA9E95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{44241CBE-F429-47EC-A500-5920CEC015A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44241CBE-F429-47EC-A500-5920CEC015A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44241CBE-F429-47EC-A500-5920CEC015A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23E35F7-0FAB-4628-9954-35DD51EA9E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23E35F7-0FAB-4628-9954-35DD51EA9E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23E35F7-0FAB-4628-9954-35DD51EA9E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23E35F7-0FAB-4628-9954-35DD51EA9E95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

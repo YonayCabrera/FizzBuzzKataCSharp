@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb0722cb-5698-4d75-8661-a796efabcace" name="Default" comment="" />
+    <list default="true" id="eb0722cb-5698-4d75-8661-a796efabcace" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticTacToeKata/BoardShould.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ticTacToeKata/Cell.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Solution/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solution.sln" afterPath="$PROJECT_DIR$/Solution.sln" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +33,10 @@
       <file leaf-file-name="FizzBuzzKata.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="17" column="64" lean-forward="false" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+            <state relative-caret-position="522">
+              <caret line="19" column="9" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-                <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
                 <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
                 <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
                 <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -43,8 +48,142 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Board.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/Board.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <marker date="1506526504540" expanded="true" signature="6:124" ph="..." />
+                <marker date="1506526504540" expanded="true" signature="149:5559" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="178:5557" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="255:322" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="363:423" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="472:715" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="768:1016" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="830:874" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="936:980" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="1071:1354" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="1407:1710" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="1785:1998" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="2072:2284" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="2366:2445" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="2527:2605" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="2687:2766" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="2846:2925" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="3005:3084" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="3164:3243" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="3350:3465" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="3572:3687" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="3793:3908" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="4015:4130" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="4237:4352" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="4457:4552" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="4656:4751" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="4856:4951" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="5056:5151" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="5256:5351" ph="{...}" />
+                <marker date="1506526504540" expanded="true" signature="5456:5551" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Players.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/Players.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding>
+                <marker date="1506526504791" expanded="true" signature="27:181" ph="{...}" />
+                <marker date="1506526504791" expanded="true" signature="66:175" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/Player1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+              <folding>
+                <marker date="1506526504640" expanded="true" signature="23:229" ph="{...}" />
+                <marker date="1506526504640" expanded="true" signature="59:227" ph="{...}" />
+                <marker date="1506526504640" expanded="true" signature="102:137" ph="{...}" />
+                <marker date="1506526504640" expanded="true" signature="175:221" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player2.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/Player2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <marker date="1506526504748" expanded="true" signature="23:229" ph="{...}" />
+                <marker date="1506526504748" expanded="true" signature="59:227" ph="{...}" />
+                <marker date="1506526504748" expanded="true" signature="102:137" ph="{...}" />
+                <marker date="1506526504748" expanded="true" signature="175:221" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoardShould.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/BoardShould.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <marker date="1506526330957" expanded="false" signature="6:60" ph="..." />
+                <marker date="1506526330957" expanded="true" signature="85:2068" ph="{...}" />
+                <marker date="1506526330957" expanded="true" signature="138:2066" ph="{...}" />
+                <marker date="1506526330957" expanded="true" signature="279:397" ph="{...}" />
+                <marker date="1506526330957" expanded="true" signature="462:618" ph="{...}" />
+                <marker date="1506526330957" expanded="true" signature="683:839" ph="{...}" />
+                <marker date="1506526330957" expanded="true" signature="911:1237" ph="{...}" />
+                <marker date="1506526330957" expanded="true" signature="1319:1645" ph="{...}" />
+                <marker date="1506526330957" expanded="true" signature="1725:2051" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cell.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/Cell.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1506523160548" expanded="true" signature="23:292" ph="{...}" />
+                <marker date="1506523160548" expanded="true" signature="46:290" ph="{...}" />
+                <marker date="1506523160548" expanded="true" signature="101:172" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Position.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/Position.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <marker date="1506526504690" expanded="true" signature="23:313" ph="{...}" />
+                <marker date="1506526504690" expanded="true" signature="50:311" ph="{...}" />
+                <marker date="1506526504690" expanded="true" signature="136:195" ph="{...}" />
+                <marker date="1506526504690" expanded="true" signature="217:250" ph="{...}" />
+                <marker date="1506526504690" expanded="true" signature="272:305" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="packages.config" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fizzBuzzKata/packages.config">
+        <entry file="file://$PROJECT_DIR$/ticTacToeKata/packages.config">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -53,39 +192,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fizz.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-              <folding>
-                <marker date="1506034801394" expanded="true" signature="22:139" ph="{...}" />
-                <marker date="1506034801394" expanded="true" signature="46:137" ph="{...}" />
-                <marker date="1506034801394" expanded="true" signature="84:131" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Buzz.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Buzz.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding>
-                <marker date="1506034801653" expanded="true" signature="22:139" ph="{...}" />
-                <marker date="1506034801653" expanded="true" signature="46:137" ph="{...}" />
-                <marker date="1506034801653" expanded="true" signature="84:131" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FizzBuzzShould.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzShould.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding>
                 <marker date="1506093004847" expanded="true" signature="6:56" ph="..." />
                 <marker date="1506093004847" expanded="true" signature="80:1551" ph="{...}" />
@@ -103,12 +214,23 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/fizzBuzzKata/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/Position.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fizzBuzzKata/Buzz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzShould.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/Cell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/Players.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/Board.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/Player1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/Player2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/fizzBuzzKata/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/BoardShould.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ticTacToeKata/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -119,6 +241,17 @@
         <option value="$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs" />
         <option value="$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs" />
         <option value="$PROJECT_DIR$/fizzBuzzKata/FizzBuzzShould.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Class1.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/TicTacToe.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/TicTacToeShould.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Cell.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Properties/Players.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Players.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Player2.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/BoardShould.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Player1.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Board.cs" />
+        <option value="$PROJECT_DIR$/ticTacToeKata/Position.cs" />
       </list>
     </option>
   </component>
@@ -155,7 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <PATH>
@@ -164,11 +296,39 @@
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Solution (1 project)" />
+              <option name="myItemId" value="Solution (2 projects)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fizzBuzzKata" />
+              <option name="myItemId" value="ticTacToeKata" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solution (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ticTacToeKata" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solution (2 projects)" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -176,11 +336,12 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RunDashboard">
@@ -278,6 +439,8 @@
     <configuration />
     <configuration />
     <configuration />
+    <configuration />
+    <configuration />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -298,12 +461,14 @@
       <workItem from="1506035841359" duration="1430000" />
       <workItem from="1506062897217" duration="734000" />
       <workItem from="1506088685514" duration="1031000" />
-      <workItem from="1506090267498" duration="2735000" />
+      <workItem from="1506090267498" duration="2968000" />
+      <workItem from="1506458952603" duration="9375000" />
+      <workItem from="1506521098323" duration="5414000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10383000" />
+    <option name="totallyTimeSpent" value="25405000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,20 +481,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Unit Tests" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32842582" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17937702" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18474758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -337,8 +501,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -377,13 +541,141 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1506034801394" expanded="true" signature="22:139" ph="{...}" />
+            <marker date="1506034801394" expanded="true" signature="46:137" ph="{...}" />
+            <marker date="1506034801394" expanded="true" signature="84:131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/BoardShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="32" column="48" lean-forward="false" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <folding>
+            <marker date="1506526330957" expanded="false" signature="6:60" ph="..." />
+            <marker date="1506526330957" expanded="true" signature="85:2068" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="138:2066" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="279:397" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="462:618" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="683:839" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="911:1237" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="1319:1645" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="1725:2051" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Position.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <marker date="1506526504690" expanded="true" signature="23:313" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="50:311" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="136:195" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="217:250" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="272:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Buzz.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1506034801653" expanded="true" signature="22:139" ph="{...}" />
+            <marker date="1506034801653" expanded="true" signature="46:137" ph="{...}" />
+            <marker date="1506034801653" expanded="true" signature="84:131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1506093004847" expanded="true" signature="6:56" ph="..." />
+            <marker date="1506093004847" expanded="true" signature="80:1551" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="132:1549" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="283:414" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="482:627" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="698:836" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="906:1044" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="1136:1270" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="1341:1543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Board.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <marker date="1506526504540" expanded="true" signature="6:124" ph="..." />
+            <marker date="1506526504540" expanded="true" signature="149:5559" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="178:5557" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="255:322" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="363:423" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="472:715" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="768:1016" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="830:874" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="936:980" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="1071:1354" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="1407:1710" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="1785:1998" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2072:2284" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2366:2445" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2527:2605" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2687:2766" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2846:2925" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3005:3084" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3164:3243" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3350:3465" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3572:3687" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3793:3908" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4015:4130" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4237:4352" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4457:4552" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4656:4751" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4856:4951" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="5056:5151" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="5256:5351" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="5456:5551" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="464">
+          <caret line="17" column="64" lean-forward="false" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
           <folding>
             <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-            <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -394,14 +686,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs">
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/packages.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Buzz.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1506034801653" expanded="true" signature="22:139" ph="{...}" />
+            <marker date="1506034801653" expanded="true" signature="46:137" ph="{...}" />
+            <marker date="1506034801653" expanded="true" signature="84:131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <marker date="1506093004847" expanded="true" signature="6:56" ph="..." />
+            <marker date="1506093004847" expanded="true" signature="80:1551" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="132:1549" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="283:414" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="482:627" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="698:836" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="906:1044" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="1136:1270" ph="{...}" />
+            <marker date="1506093004847" expanded="true" signature="1341:1543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1506034801394" expanded="true" signature="22:139" ph="{...}" />
+            <marker date="1506034801394" expanded="true" signature="46:137" ph="{...}" />
+            <marker date="1506034801394" expanded="true" signature="84:131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
+            <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
+            <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
+            <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
+            <marker date="1506093004668" expanded="true" signature="608:692" ph="{...}" />
+            <marker date="1506093004668" expanded="true" signature="748:810" ph="{...}" />
+            <marker date="1506093004668" expanded="true" signature="867:929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs" />
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -450,7 +801,6 @@
           <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
           <folding>
             <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-            <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -503,21 +853,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs" />
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
           <folding>
             <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-            <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -528,14 +870,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs" />
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -584,7 +919,6 @@
           <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
           <folding>
             <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-            <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -595,14 +929,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs" />
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -651,7 +978,6 @@
           <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-            <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -686,7 +1012,6 @@
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-            <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -723,18 +1048,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs">
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs" />
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Buzz.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="58">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1506034801653" expanded="true" signature="22:139" ph="{...}" />
+            <marker date="1506034801653" expanded="true" signature="46:137" ph="{...}" />
+            <marker date="1506034801653" expanded="true" signature="84:131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding>
+            <marker date="1506034801394" expanded="true" signature="22:139" ph="{...}" />
+            <marker date="1506034801394" expanded="true" signature="46:137" ph="{...}" />
+            <marker date="1506034801394" expanded="true" signature="84:131" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzShould.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding>
             <marker date="1506093004847" expanded="true" signature="6:56" ph="..." />
             <marker date="1506093004847" expanded="true" signature="80:1551" ph="{...}" />
@@ -751,11 +1093,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="17" column="64" lean-forward="false" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+        <state relative-caret-position="522">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
           <folding>
             <marker date="1506093004668" expanded="false" signature="6:52" ph="..." />
-            <marker date="1506093004668" expanded="true" signature="77:937" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="109:935" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="175:252" ph="{...}" />
             <marker date="1506093004668" expanded="true" signature="305:544" ph="{...}" />
@@ -766,26 +1107,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Buzz.cs">
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/packages.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Board.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding>
-            <marker date="1506034801653" expanded="true" signature="22:139" ph="{...}" />
-            <marker date="1506034801653" expanded="true" signature="46:137" ph="{...}" />
-            <marker date="1506034801653" expanded="true" signature="84:131" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="6:124" ph="..." />
+            <marker date="1506526504540" expanded="true" signature="149:5559" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="178:5557" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="255:322" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="363:423" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="472:715" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="768:1016" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="830:874" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="936:980" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="1071:1354" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="1407:1710" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="1785:1998" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2072:2284" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2366:2445" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2527:2605" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2687:2766" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="2846:2925" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3005:3084" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3164:3243" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3350:3465" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3572:3687" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="3793:3908" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4015:4130" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4237:4352" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4457:4552" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4656:4751" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="4856:4951" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="5056:5151" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="5256:5351" ph="{...}" />
+            <marker date="1506526504540" expanded="true" signature="5456:5551" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Players.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <marker date="1506526504791" expanded="true" signature="27:181" ph="{...}" />
+            <marker date="1506526504791" expanded="true" signature="66:175" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Player1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <marker date="1506526504640" expanded="true" signature="23:229" ph="{...}" />
+            <marker date="1506526504640" expanded="true" signature="59:227" ph="{...}" />
+            <marker date="1506526504640" expanded="true" signature="102:137" ph="{...}" />
+            <marker date="1506526504640" expanded="true" signature="175:221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Player2.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <marker date="1506034801394" expanded="true" signature="22:139" ph="{...}" />
-            <marker date="1506034801394" expanded="true" signature="46:137" ph="{...}" />
-            <marker date="1506034801394" expanded="true" signature="84:131" ph="{...}" />
+            <marker date="1506526504748" expanded="true" signature="23:229" ph="{...}" />
+            <marker date="1506526504748" expanded="true" signature="59:227" ph="{...}" />
+            <marker date="1506526504748" expanded="true" signature="102:137" ph="{...}" />
+            <marker date="1506526504748" expanded="true" signature="175:221" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Cell.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1506523160548" expanded="true" signature="23:292" ph="{...}" />
+            <marker date="1506523160548" expanded="true" signature="46:290" ph="{...}" />
+            <marker date="1506523160548" expanded="true" signature="101:172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/Position.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <marker date="1506526504690" expanded="true" signature="23:313" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="50:311" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="136:195" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="217:250" ph="{...}" />
+            <marker date="1506526504690" expanded="true" signature="272:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ticTacToeKata/BoardShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <marker date="1506526330957" expanded="false" signature="6:60" ph="..." />
+            <marker date="1506526330957" expanded="true" signature="85:2068" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="138:2066" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="279:397" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="462:618" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="683:839" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="911:1237" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="1319:1645" ph="{...}" />
+            <marker date="1506526330957" expanded="true" signature="1725:2051" ph="{...}" />
           </folding>
         </state>
       </provider>
