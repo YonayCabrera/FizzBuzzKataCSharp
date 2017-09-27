@@ -3,10 +3,13 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../..">
       <sourceFolder url="file://$MODULE_DIR$/../../fizzBuzzKata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../testDoubleKata" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../ticTacToeKata" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../fizzBuzzKata/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../fizzBuzzKata/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+      <excludeFolder url="file://$MODULE_DIR$/../../testDoubleKata/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../testDoubleKata/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../ticTacToeKata/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../ticTacToeKata/obj" />
     </content>

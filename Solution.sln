@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizzBuzzKata", "fizzBuzzKat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToeKata", "ticTacToeKata\ticTacToeKata.csproj", "{B23E35F7-0FAB-4628-9954-35DD51EA9E95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testDoubleKata", "testDoubleKata\testDoubleKata.csproj", "{97CEDE79-D4CF-41C0-9195-AEA87A3D9DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B23E35F7-0FAB-4628-9954-35DD51EA9E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23E35F7-0FAB-4628-9954-35DD51EA9E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23E35F7-0FAB-4628-9954-35DD51EA9E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CEDE79-D4CF-41C0-9195-AEA87A3D9DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CEDE79-D4CF-41C0-9195-AEA87A3D9DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CEDE79-D4CF-41C0-9195-AEA87A3D9DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CEDE79-D4CF-41C0-9195-AEA87A3D9DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
