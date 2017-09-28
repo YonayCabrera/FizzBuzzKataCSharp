@@ -15,7 +15,7 @@ namespace testDoubleKata.test.services{
         [Test]
         public void Save_a_customer(){
             //given
-            Customer customer = new Customer();
+            Customer customer = new Customer("yonay");
             CustomerRepository customerRepository = Substitute.For<CustomerRepository>();
             CreateCustomer createCustomer = new CreateCustomer(customerRepository);
             //when

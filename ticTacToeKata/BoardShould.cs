@@ -19,7 +19,7 @@ namespace ticTacToeKata{
         [Test]
         public void Return_O_when_player1_play(){
             board.PutToken(new Cell(player1.PutToken(),new Position(0,0)));
-            Assert.AreEqual(board.GetResult(player2),"next_player");
+            Assert.AreEqual(board.ExecuteRulesOfGame(player2),"next_player");
         }
 
         [Test]
@@ -27,7 +27,7 @@ namespace ticTacToeKata{
             board.PutToken(new Cell(player2.PutToken(),new Position(0,0)));
             board.PutToken(new Cell(player1.PutToken(),new Position(1,0)));
             board.PutToken(new Cell(player2.PutToken(),new Position(2,0)));
-            Assert.AreEqual(board.GetResult(player2),"next_player");
+            Assert.AreEqual(board.ExecuteRulesOfGame(player2),"next_player");
         }
 
         [Test]
@@ -36,7 +36,7 @@ namespace ticTacToeKata{
             board.PutToken(new Cell(player1.PutToken(), new Position(1, 0)));
             board.PutToken(new Cell(player1.PutToken(), new Position(2, 0)));
             
-            Assert.AreEqual(board.GetResult(player1),"Player1 win!");
+            Assert.AreEqual(board.ExecuteRulesOfGame(player1),"Player1 win!");
         }
         
         [Test]
@@ -45,7 +45,7 @@ namespace ticTacToeKata{
             board.PutToken(new Cell(player1.PutToken(), new Position(0, 1)));
             board.PutToken(new Cell(player1.PutToken(), new Position(0, 2)));
             
-            Assert.AreEqual(board.GetResult(player1),"Player1 win!");
+            Assert.AreEqual(board.ExecuteRulesOfGame(player1),"Player1 win!");
         }
         
         [Test]
@@ -54,7 +54,7 @@ namespace ticTacToeKata{
             board.PutToken(new Cell(player1.PutToken(), new Position(1, 1)));
             board.PutToken(new Cell(player1.PutToken(), new Position(2, 2)));
             
-            Assert.AreEqual(board.GetResult(player1),"Player1 win!");
+            Assert.AreEqual(board.ExecuteRulesOfGame(player1),"Player1 win!");
         }
         
     }

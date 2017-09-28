@@ -17,7 +17,7 @@ namespace ticTacToeKata{
             board.Add(cell.Position,cell.Token);
         }
 
-        public string GetResult(Players player){
+        public string ExecuteRulesOfGame(Players player){
             
             if (Verticals_wins(player)) return player.Win();
             if (Horizontals_wins(player)) return player.Win();
@@ -26,23 +26,20 @@ namespace ticTacToeKata{
         }
 
         private bool Diagonals_wins(Players player){
-            if (Have_three_on_diagonal_X0Y0_to_X2Y2(player)) return true;
-            if (Have_three_on_diagonal_Y0X2_to_Y2_X0(player)) return true;
-            return false;
+            return (Have_three_on_diagonal_X0Y0_to_X2Y2(player)) ||
+                   (Have_three_on_diagonal_Y0X2_to_Y2_X0(player)) ; 
         }
 
         private bool Horizontals_wins(Players player){
-            if (Have_three_tokens_on_Y0_horizontal_position(player)) return true;
-            if (Have_three_tokens_on_Y1_horizontal_position(player)) return true;
-            if (Have_three_tokens_on_Y2_horizontal_position(player)) return true;
-            return false;
+            return (Have_three_tokens_on_Y0_horizontal_position(player)) ||
+                   (Have_three_tokens_on_Y1_horizontal_position(player)) ||
+                   (Have_three_tokens_on_Y2_horizontal_position(player)); 
         }
 
         private bool Verticals_wins(Players player){
-            if (Have_three_tokens_on_X0_vertical_position(player)) return true;
-            if (Have_three_tokens_on_X1_vertical_position(player)) return true;
-            if (Have_three_tokens_on_X2_vertical_position(player)) return true;
-            return false;
+            return (Have_three_tokens_on_X0_vertical_position(player)) ||
+                   (Have_three_tokens_on_X1_vertical_position(player)) ||
+                   (Have_three_tokens_on_X2_vertical_position(player));
         }
 
         private bool Have_three_on_diagonal_Y0X2_to_Y2_X0(Players player){
