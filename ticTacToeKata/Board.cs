@@ -18,7 +18,6 @@ namespace ticTacToeKata{
         }
 
         public string ExecuteRulesOfGame(Players player){
-            
             if (Verticals_wins(player)) return player.Win();
             if (Horizontals_wins(player)) return player.Win();
             if (Diagonals_wins(player)) return player.Win();
