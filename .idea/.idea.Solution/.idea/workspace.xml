@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eb0722cb-5698-4d75-8661-a796efabcace" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.Solution/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.Solution/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Solution.sln" afterPath="$PROJECT_DIR$/Solution.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gildedRoseKata/GildenRoseShould.cs" afterPath="$PROJECT_DIR$/gildedRoseKata/GildenRoseShould.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gildedRoseKata/gildedRoseKata.csproj" afterPath="$PROJECT_DIR$/gildedRoseKata/gildedRoseKata.csproj" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,106 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BoardShould.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticTacToeKata/BoardShould.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding>
-                <marker date="1506618441088" expanded="false" signature="6:60" ph="..." />
-                <marker date="1506618441088" expanded="true" signature="85:2265" ph="{...}" />
-                <marker date="1506618441088" expanded="true" signature="138:2263" ph="{...}" />
-                <marker date="1506618441088" expanded="true" signature="279:397" ph="{...}" />
-                <marker date="1506618441088" expanded="true" signature="462:627" ph="{...}" />
-                <marker date="1506618441088" expanded="true" signature="692:1009" ph="{...}" />
-                <marker date="1506618441088" expanded="true" signature="1081:1416" ph="{...}" />
-                <marker date="1506618441088" expanded="true" signature="1498:1833" ph="{...}" />
-                <marker date="1506618441088" expanded="true" signature="1913:2248" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CreateCustomerShould.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testDoubleKata/test/services/CreateCustomerShould.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding>
-                <marker date="1506537291252" expanded="false" signature="6:166" ph="..." />
-                <marker date="1506537291252" expanded="true" signature="207:734" ph="{...}" />
-                <marker date="1506537291252" expanded="true" signature="269:732" ph="{...}" />
-                <marker date="1506537291252" expanded="true" signature="324:726" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerRepositoryShould.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testDoubleKata/test/repository/CustomerRepositoryShould.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-              <folding>
-                <marker date="1506617704902" expanded="false" signature="6:158" ph="..." />
-                <marker date="1506617704902" expanded="true" signature="200:1968" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="299:1966" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="390:625" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="737:1239" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="1277:1520" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="1420:1485" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="1565:1959" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="1582:1885" ph="{...}" />
-                <marker date="1506617704902" expanded="true" signature="1917:1949" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Board.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ticTacToeKata/Board.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <marker date="1506618605506" expanded="false" signature="6:124" ph="..." />
-                <marker date="1506618605506" expanded="true" signature="149:5338" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="178:5336" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="255:322" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="363:423" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="481:711" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="764:912" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="967:1205" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="1258:1489" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="1564:1777" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="1851:2063" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="2145:2224" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="2306:2384" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="2466:2545" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="2625:2704" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="2784:2863" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="2943:3022" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="3129:3244" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="3351:3466" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="3572:3687" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="3794:3909" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="4016:4131" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="4236:4331" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="4435:4530" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="4635:4730" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="4835:4930" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="5035:5130" ph="{...}" />
-                <marker date="1506618605506" expanded="true" signature="5235:5330" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GildedRoseKata.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gildedRoseKata/GildedRoseKata.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="32" column="87" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="87" />
+            <state relative-caret-position="312">
+              <caret line="16" column="112" lean-forward="false" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="112" />
               <folding>
                 <marker date="1506634327141" expanded="true" signature="59:3027" ph="{...}" />
                 <marker date="1506634327141" expanded="true" signature="93:3025" ph="{...}" />
@@ -158,52 +63,107 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gildedRoseKata/Program.cs">
+      <file leaf-file-name="OtherItems.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gildedRoseKata/OtherItems.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="174">
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
-                <marker date="1506634373372" expanded="true" signature="6:47" ph="..." />
-                <marker date="1506634373372" expanded="true" signature="74:2016" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="106:2014" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="154:782" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="336:772" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="534:682" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="831:2008" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="866:1997" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="1313:1470" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="1497:1654" ph="{...}" />
-                <marker date="1506634373372" expanded="true" signature="1681:1837" ph="{...}" />
+                <marker date="1506782100707" expanded="true" signature="24:134" ph="{...}" />
+                <marker date="1506782100707" expanded="true" signature="57:132" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GildenRoseShould.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Aged.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gildedRoseKata/Aged.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <marker date="1506783623148" expanded="true" signature="24:608" ph="{...}" />
+                <marker date="1506783623148" expanded="true" signature="60:606" ph="{...}" />
+                <marker date="1506783623148" expanded="true" signature="214:326" ph="{...}" />
+                <marker date="1506783623148" expanded="true" signature="364:407" ph="{...}" />
+                <marker date="1506783623148" expanded="true" signature="436:503" ph="{...}" />
+                <marker date="1506783623148" expanded="true" signature="533:600" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemFactory.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gildedRoseKata/Properties/ItemFactory.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <folding>
+                <marker date="1506784537747" expanded="true" signature="35:83" ph="{...}" />
+                <marker date="1506784537747" expanded="true" signature="65:81" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Backstage.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gildedRoseKata/Backstage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="9" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <marker date="1506783623205" expanded="true" signature="24:650" ph="{...}" />
+                <marker date="1506783623205" expanded="true" signature="65:648" ph="{...}" />
+                <marker date="1506783623205" expanded="true" signature="224:336" ph="{...}" />
+                <marker date="1506783623205" expanded="true" signature="374:449" ph="{...}" />
+                <marker date="1506783623205" expanded="true" signature="478:545" ph="{...}" />
+                <marker date="1506783623205" expanded="true" signature="575:642" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sulfuras.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gildedRoseKata/Sulfuras.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+              <folding>
+                <marker date="1506783623069" expanded="true" signature="24:617" ph="{...}" />
+                <marker date="1506783623069" expanded="true" signature="64:615" ph="{...}" />
+                <marker date="1506783623069" expanded="true" signature="214:326" ph="{...}" />
+                <marker date="1506783623069" expanded="true" signature="356:416" ph="{...}" />
+                <marker date="1506783623069" expanded="true" signature="445:512" ph="{...}" />
+                <marker date="1506783623069" expanded="true" signature="542:609" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GildenRoseShould.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gildedRoseKata/GildenRoseShould.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="-435">
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding>
-                <marker date="1506639008192" expanded="true" signature="6:56" ph="..." />
-                <marker date="1506639008192" expanded="true" signature="83:3279" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="137:3277" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="263:368" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="443:674" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="745:959" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="1037:1314" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="1078:1174" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="1398:1675" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="1439:1535" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="1755:1967" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="2066:2343" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="2107:2204" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="2448:2674" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="2484:2544" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="2746:2970" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="2782:2841" ph="{...}" />
-                <marker date="1506639008192" expanded="true" signature="3059:3271" ph="{...}" />
+                <marker date="1506767651588" expanded="false" signature="6:56" ph="..." />
+                <marker date="1506767651588" expanded="true" signature="83:3299" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="137:3297" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="263:368" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="455:681" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="491:551" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="753:977" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="789:848" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="1067:1279" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="1358:1572" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="1656:1887" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="1966:2243" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="2007:2103" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="2347:2559" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="2643:2920" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="2684:2780" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="3014:3291" ph="{...}" />
+                <marker date="1506767651588" expanded="true" signature="3055:3152" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -212,36 +172,11 @@
       <file leaf-file-name="Item.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gildedRoseKata/Item.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="24" />
+            <state relative-caret-position="145">
+              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
               <folding>
                 <marker date="1506622662360" expanded="true" signature="24:184" ph="{...}" />
                 <marker date="1506622662360" expanded="true" signature="48:182" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="packages.config" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gildedRoseKata/packages.config">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gildedRoseKata/Properties/AssemblyInfo.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1506622183242" expanded="false" signature="6:101" ph="..." />
-                <marker date="1506622183242" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
-                <marker date="1506622183242" expanded="true" signature="605:815" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
-                <marker date="1506622183242" expanded="true" signature="990:1317" ph="/* Version information for an assembly consists of the following four values: ... */" />
               </folding>
             </state>
           </provider>
@@ -264,13 +199,18 @@
     <setting file="file://$PROJECT_DIR$/gildedRoseKata/GildenRoseShould.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fizzBuzzKata/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ticTacToeKata/BoardShould.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gildedRoseKata/Properties/ItemFactory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ticTacToeKata/packages.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/gildedRoseKata/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/gildedRoseKata/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gildedRoseKata/Sulfuras.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/gildedRoseKata/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gildedRoseKata/Backstage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gildedRoseKata/Aged.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testDoubleKata/test/services/CreateCustomerShould.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/gildedRoseKata/GildedRoseKata.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/gildedRoseKata/OtherItems.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ticTacToeKata/Position.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/testDoubleKata/entity/Customer.cs" root0="FORCE_HIGHLIGHTING" />
@@ -315,6 +255,11 @@
         <option value="$PROJECT_DIR$/gildedRoseKata/GildedRoseKata.cs" />
         <option value="$PROJECT_DIR$/gildedRoseKata/Program.cs" />
         <option value="$PROJECT_DIR$/gildedRoseKata/GildenRoseShould.cs" />
+        <option value="$PROJECT_DIR$/gildedRoseKata/OtherItems.cs" />
+        <option value="$PROJECT_DIR$/gildedRoseKata/Sulfuras.cs" />
+        <option value="$PROJECT_DIR$/gildedRoseKata/Backstage.cs" />
+        <option value="$PROJECT_DIR$/gildedRoseKata/Aged.cs" />
+        <option value="$PROJECT_DIR$/gildedRoseKata/Properties/ItemFactory.cs" />
       </list>
     </option>
   </component>
@@ -374,6 +319,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="gildedRoseKata" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solution (4 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gildedRoseKata" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
               <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -493,6 +456,7 @@
     <configuration />
     <configuration />
     <configuration />
+    <configuration />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -522,12 +486,13 @@
       <workItem from="1506554485762" duration="306000" />
       <workItem from="1506616158998" duration="2629000" />
       <workItem from="1506621884797" duration="490000" />
-      <workItem from="1506622524133" duration="14788000" />
+      <workItem from="1506622524133" duration="14859000" />
+      <workItem from="1506766559376" duration="5552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56300000" />
+    <option name="totallyTimeSpent" value="61923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,7 +515,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13104188" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13265306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08431794" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -571,20 +536,20 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.49785176" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5021482" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13265306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08431794" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -603,35 +568,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzz.cs" />
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Buzz.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzShould.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="31" column="84" lean-forward="false" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fizzBuzzKata/FizzBuzzKata.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fizzBuzzKata/Fizz.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -829,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,12 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <marker date="1506539614438" expanded="true" signature="31:244" ph="{...}" />
-            <marker date="1506539614438" expanded="true" signature="58:242" ph="{...}" />
-            <marker date="1506539614438" expanded="true" signature="126:167" ph="{...}" />
-            <marker date="1506539614438" expanded="true" signature="200:236" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,10 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding>
-            <marker date="1506534796855" expanded="true" signature="65:153" ph="{...}" />
-            <marker date="1506534796855" expanded="true" signature="106:151" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -861,13 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="14" column="101" lean-forward="false" selection-start-line="14" selection-start-column="101" selection-end-line="14" selection-end-column="101" />
-          <folding>
-            <marker date="1506554326196" expanded="false" signature="6:93" ph="..." />
-            <marker date="1506554326196" expanded="true" signature="130:541" ph="{...}" />
-            <marker date="1506554326196" expanded="true" signature="177:539" ph="{...}" />
-            <marker date="1506554326196" expanded="true" signature="291:344" ph="{...}" />
-            <marker date="1506554326196" expanded="true" signature="389:533" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -877,7 +795,6 @@
           <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
           <folding>
             <marker date="1506617704902" expanded="false" signature="6:158" ph="..." />
-            <marker date="1506617704902" expanded="true" signature="200:1968" ph="{...}" />
             <marker date="1506617704902" expanded="true" signature="299:1966" ph="{...}" />
             <marker date="1506617704902" expanded="true" signature="390:625" ph="{...}" />
             <marker date="1506617704902" expanded="true" signature="737:1239" ph="{...}" />
@@ -892,11 +809,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ticTacToeKata/BoardShould.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="145">
           <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding>
             <marker date="1506618441088" expanded="false" signature="6:60" ph="..." />
-            <marker date="1506618441088" expanded="true" signature="85:2265" ph="{...}" />
             <marker date="1506618441088" expanded="true" signature="138:2263" ph="{...}" />
             <marker date="1506618441088" expanded="true" signature="279:397" ph="{...}" />
             <marker date="1506618441088" expanded="true" signature="462:627" ph="{...}" />
@@ -971,14 +887,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gildedRoseKata/test.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/test.cs" />
     <entry file="file://$PROJECT_DIR$/gildedRoseKata/packages.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -987,23 +896,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gildedRoseKata/Item.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="24" />
-          <folding>
-            <marker date="1506622662360" expanded="true" signature="24:184" ph="{...}" />
-            <marker date="1506622662360" expanded="true" signature="48:182" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gildedRoseKata/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
+        <state relative-caret-position="203">
           <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
           <folding>
-            <marker date="1506634373372" expanded="true" signature="6:47" ph="..." />
+            <marker date="1506634373372" expanded="false" signature="6:47" ph="..." />
             <marker date="1506634373372" expanded="true" signature="74:2016" ph="{...}" />
             <marker date="1506634373372" expanded="true" signature="106:2014" ph="{...}" />
             <marker date="1506634373372" expanded="true" signature="154:782" ph="{...}" />
@@ -1018,10 +916,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/Item.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <marker date="1506622662360" expanded="true" signature="24:184" ph="{...}" />
+            <marker date="1506622662360" expanded="true" signature="48:182" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/GildenRoseShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <marker date="1506767651588" expanded="false" signature="6:56" ph="..." />
+            <marker date="1506767651588" expanded="true" signature="83:3299" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="137:3297" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="263:368" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="455:681" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="491:551" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="753:977" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="789:848" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="1067:1279" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="1358:1572" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="1656:1887" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="1966:2243" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="2007:2103" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="2347:2559" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="2643:2920" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="2684:2780" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="3014:3291" ph="{...}" />
+            <marker date="1506767651588" expanded="true" signature="3055:3152" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gildedRoseKata/GildedRoseKata.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="32" column="87" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="87" />
+        <state relative-caret-position="312">
+          <caret line="16" column="112" lean-forward="false" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="112" />
           <folding>
             <marker date="1506634327141" expanded="true" signature="59:3027" ph="{...}" />
             <marker date="1506634327141" expanded="true" signature="93:3025" ph="{...}" />
@@ -1051,29 +987,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gildedRoseKata/GildenRoseShould.cs">
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/OtherItems.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="174">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
-            <marker date="1506639008192" expanded="true" signature="6:56" ph="..." />
-            <marker date="1506639008192" expanded="true" signature="83:3279" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="137:3277" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="263:368" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="443:674" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="745:959" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="1037:1314" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="1078:1174" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="1398:1675" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="1439:1535" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="1755:1967" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="2066:2343" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="2107:2204" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="2448:2674" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="2484:2544" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="2746:2970" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="2782:2841" ph="{...}" />
-            <marker date="1506639008192" expanded="true" signature="3059:3271" ph="{...}" />
+            <marker date="1506782100707" expanded="true" signature="24:134" ph="{...}" />
+            <marker date="1506782100707" expanded="true" signature="57:132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/Sulfuras.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <marker date="1506783623069" expanded="true" signature="24:617" ph="{...}" />
+            <marker date="1506783623069" expanded="true" signature="64:615" ph="{...}" />
+            <marker date="1506783623069" expanded="true" signature="214:326" ph="{...}" />
+            <marker date="1506783623069" expanded="true" signature="356:416" ph="{...}" />
+            <marker date="1506783623069" expanded="true" signature="445:512" ph="{...}" />
+            <marker date="1506783623069" expanded="true" signature="542:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/Backstage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <marker date="1506783623205" expanded="true" signature="24:650" ph="{...}" />
+            <marker date="1506783623205" expanded="true" signature="65:648" ph="{...}" />
+            <marker date="1506783623205" expanded="true" signature="224:336" ph="{...}" />
+            <marker date="1506783623205" expanded="true" signature="374:449" ph="{...}" />
+            <marker date="1506783623205" expanded="true" signature="478:545" ph="{...}" />
+            <marker date="1506783623205" expanded="true" signature="575:642" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/Aged.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <marker date="1506783623148" expanded="true" signature="24:608" ph="{...}" />
+            <marker date="1506783623148" expanded="true" signature="60:606" ph="{...}" />
+            <marker date="1506783623148" expanded="true" signature="214:326" ph="{...}" />
+            <marker date="1506783623148" expanded="true" signature="364:407" ph="{...}" />
+            <marker date="1506783623148" expanded="true" signature="436:503" ph="{...}" />
+            <marker date="1506783623148" expanded="true" signature="533:600" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gildedRoseKata/Properties/ItemFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding>
+            <marker date="1506784537747" expanded="true" signature="35:83" ph="{...}" />
+            <marker date="1506784537747" expanded="true" signature="65:81" ph="{...}" />
           </folding>
         </state>
       </provider>
