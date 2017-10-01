@@ -10,15 +10,11 @@
             this.sellIn = sellIng;
         }
 
-        public string Name(){
-            return "Sulfuras, Hand of Ragnaros";
-        }
-
-        public int SellIn(){
-            throw new System.NotImplementedException();
-        }
-
-        public int Quality(){
+        public string Name { get; set; }
+        public int SellIn { get; set; }
+        public int Quality { get; set; }
+        
+        public override void UpdateQuality(){
             throw new System.NotImplementedException();
         }
     }

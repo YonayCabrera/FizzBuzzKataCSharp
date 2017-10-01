@@ -10,15 +10,12 @@
             this.sellIn = sellIng;
         }
         
-        public string Name(){
-            return "Backstage passes to a TAFKAL80ETC concert";
-        }
+        public string Name { get; set; }
+        public int SellIn { get; set; }
+        public int Quality { get; set; }
 
-        public int SellIn(){
-            throw new System.NotImplementedException();
-        }
 
-        public int Quality(){
+        public override void UpdateQuality(){
             throw new System.NotImplementedException();
         }
     }
